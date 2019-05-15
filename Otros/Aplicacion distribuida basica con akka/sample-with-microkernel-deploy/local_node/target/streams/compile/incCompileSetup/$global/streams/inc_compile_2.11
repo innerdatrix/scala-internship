@@ -1,0 +1,174 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\w7\data\residencia\functional\akka\code\local_node\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+4 items
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> D:\w7\data\residencia\functional\akka\code\local_node\target\scala-2.11\classes\_01\LocalActor$$anonfun$receive$1.class
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> D:\w7\data\residencia\functional\akka\code\local_node\target\scala-2.11\classes\_01\LocalActor.class
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> D:\w7\data\residencia\functional\akka\code\local_node\target\scala-2.11\classes\_01\LocalApp$.class
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> D:\w7\data\residencia\functional\akka\code\local_node\target\scala-2.11\classes\_01\LocalApp.class
+binary dependencies:
+8 items
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> C:\Program Files\Java\jdk1.7.0_75\jre\lib\rt.jar
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> C:\Users\username\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.9.jar
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> C:\Users\username\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.5.jar
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> C:\Program Files\Java\jdk1.7.0_75\jre\lib\rt.jar
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> C:\Users\username\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.9.jar
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> C:\Users\username\.ivy2\cache\com.typesafe.akka\akka-kernel_2.11\jars\akka-kernel_2.11-2.3.9.jar
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> C:\Users\username\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> C:\Users\username\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.5.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+4 items
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> _01.LocalActor
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> _01.LocalActor$$anonfun$receive$1
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> _01.LocalApp
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> _01.LocalApp$
+used names:
+66 items
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> !
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> +
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> <init>
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> A1
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> Actor
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> ActorSelection
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> B1
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> Function1
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> LocalActor
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> Predef
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> Receive
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> Unit
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> _01
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> actor
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> actorSelection
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> akka
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> apply
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> asInstanceOf
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> context
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> isInstanceOf
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> path
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> println
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> remoteActor
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> scala
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> self
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> toScala
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> unchecked
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> <init>
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> Actor
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> ActorSystem
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> AnyRef
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> Array
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> Bootable
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> ClassTag
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> ConfigFactory
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> File
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> LocalActor
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> LocalApp
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> Predef
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> Props
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> String
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> Unit
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> _01
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> actor
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> actorOf
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> akka
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> apply
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> com
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> config
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> configFile
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> getClass
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> getClassLoader
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> getFile
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> getResource
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> io
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> java
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> kernel
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> localActor
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> materializeClassTag
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> package
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> parseFile
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> println
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> scala
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> shutdown
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> system
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> typesafe
+product stamps:
+4 items
+D:\w7\data\residencia\functional\akka\code\local_node\target\scala-2.11\classes\_01\LocalActor$$anonfun$receive$1.class -> lastModified(1436671118354)
+D:\w7\data\residencia\functional\akka\code\local_node\target\scala-2.11\classes\_01\LocalActor.class -> lastModified(1436671118302)
+D:\w7\data\residencia\functional\akka\code\local_node\target\scala-2.11\classes\_01\LocalApp$.class -> lastModified(1436671118440)
+D:\w7\data\residencia\functional\akka\code\local_node\target\scala-2.11\classes\_01\LocalApp.class -> lastModified(1436671118430)
+source stamps:
+2 items
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> hash(d76e984389bfa4fd870d3ac27c51d48349488335)
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> hash(073dee0267de3330a09563d7506351ab38edd142)
+binary stamps:
+5 items
+C:\Program Files\Java\jdk1.7.0_75\jre\lib\rt.jar -> lastModified(1422589163081)
+C:\Users\username\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.9.jar -> lastModified(1421734693000)
+C:\Users\username\.ivy2\cache\com.typesafe.akka\akka-kernel_2.11\jars\akka-kernel_2.11-2.3.9.jar -> lastModified(1421734768000)
+C:\Users\username\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar -> lastModified(1417709734000)
+C:\Users\username\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.5.jar -> lastModified(1420590731000)
+class names:
+5 items
+C:\Program Files\Java\jdk1.7.0_75\jre\lib\rt.jar -> java.lang.Object
+C:\Users\username\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.9.jar -> akka.actor.ActorRefFactory
+C:\Users\username\.ivy2\cache\com.typesafe.akka\akka-kernel_2.11\jars\akka-kernel_2.11-2.3.9.jar -> akka.kernel.Bootable
+C:\Users\username\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar -> com.typesafe.config.ConfigFactory
+C:\Users\username\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.5.jar -> scala.reflect.ClassTag$
+internal apis:
+2 items
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCxoNu/AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwqON6z3QABHNlbGZzcQB+AAtOogINdAAHY29udGV4dHVxAH4ACQAAACNzcQB+AAsApkgBdAAGbm90aWZ5c3EAfgALCGUQ2XQAB1JlY2VpdmVzcQB+AAt45z17dAAEd2FpdHNxAH4AC32YqMJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAL0214W3QABmVxdWFsc3NxAH4AC0hinOB0AAxhc0luc3RhbmNlT2ZzcQB+AAudBYfVdAAMc3luY2hyb25pemVkc3EAfgALCOpp3XQADSRpc0luc3RhbmNlT2ZzcQB+AAtdyDFFdAAHcmVjZWl2ZXNxAH4AC2rv2rt0AApwcmVSZXN0YXJ0c3EAfgALh+4aVnQADWFyb3VuZFJlY2VpdmVzcQB+AAu3ptARdAALcG9zdFJlc3RhcnRzcQB+AAvmjjcndAAIcG9zdFN0b3BzcQB+AAtSGxYrdAAJbm90aWZ5QWxsc3EAfgALt62M3XQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALrtEYW3QADGlzSW5zdGFuY2VPZnNxAH4AC9qjhG50ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALYrO203QADmFyb3VuZFBvc3RTdG9wc3EAfgALwbWTEnQACkxvY2FsQWN0b3JzcQB+AAsJDVZ7dAAGPGluaXQ+c3EAfgALuDgeBHQACHByZVN0YXJ0c3EAfgALW6NirHQACXVuaGFuZGxlZHNxAH4AC8i+kU90AAI9PXNxAH4AC5r5XDR0AAVjbG9uZXNxAH4AC3w4TIB0AAZzZW5kZXJzcQB+AAvqn458dAAIdG9TdHJpbmdzcQB+AAvxTgTMdAACIT1zcQB+AAv8NDuWdAAIZ2V0Q2xhc3NzcQB+AAs5NWkWdAACbmVzcQB+AAvQH96NdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALFNaIUnQAAmVxc3EAfgAL/4JXbHQAAiMjc3EAfgALUxuL4HQACGZpbmFsaXplc3EAfgALBEWpzXQACGhhc2hDb2Rlc3EAfgALNFpLFXQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AYXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQADl8wMS5Mb2NhbEFjdG9ydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgB6eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB5AHBzcQB+AH5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AYUwACWluaGVyaXRlZHEAfgBhTAAHcGFyZW50c3EAfgBheHEAfgCCc3EAfgB5AHBzcQB+AH51cQB+AFwAAAAAc3EAfgB5AHBzcQB+AH51cQB+AFwAAAAAc3EAfgB5AHBzcQB+AH51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIF0AAVBY3RvcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AgXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEYWtrYXNxAH4AnnQABWFjdG9yc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJ9zcQB+AJJ0AAZPYmplY3RzcQB+AJZzcQB+AJl1cQB+AJwAAAADc3EAfgCedAAEamF2YXNxAH4AnnQABGxhbmdxAH4ApXNxAH4AknQAA0FueXNxAH4AlnNxAH4AmXVxAH4AnAAAAAJzcQB+AJ50AAVzY2FsYXEAfgCldXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAADXzAxc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFOgEU+rXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AE9EOlx3N1xkYXRhXHJlc2lkZW5jaWFcZnVuY3Rpb25hbFxha2thXGNvZGVcbG9jYWxfbm9kZVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU126YQ4m/pP2HDTrCfFHUg0lIgzU=
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAO3apWAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAHHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cE+Xz9l0AAZub3RpZnlzcQB+AAwa/LLkdAAEd2FpdHNxAH4ADBowOzN0AA0kYXNJbnN0YW5jZU9mc3EAfgAMqt26onQABnN5c3RlbXNxAH4ADIMUU0F0AAZlcXVhbHNzcQB+AAyPoKzEdAAHc3RhcnR1cHNxAH4ADGI2kLh0AAxhc0luc3RhbmNlT2ZzcQB+AAziJxcFdAAMc3luY2hyb25pemVkc3EAfgAM5X/mnHQADSRpc0luc3RhbmNlT2ZzcQB+AAxG8v/ndAAKY29uZmlnRmlsZXNxAH4ADI/zd610AAZjb25maWdzcQB+AAwM711EdAAEbWFpbnNxAH4ADEfo1tt0AAlub3RpZnlBbGxzcQB+AAwF2mjcdAAMaXNJbnN0YW5jZU9mc3EAfgAMVbLA73QACHNodXRkb3duc3EAfgAM3P0TRnQABjxpbml0PnNxAH4ADD6f9LF0AAI9PXNxAH4ADDuCw/J0AAVjbG9uZXNxAH4ADOZXtAZ0AAhMb2NhbEFwcHNxAH4ADKV+z4N0AAh0b1N0cmluZ3NxAH4ADKf2kMV0AAIhPXNxAH4ADJim73l0AAhnZXRDbGFzc3NxAH4ADOYtiup0AAJuZXNxAH4ADMzbu8t0AApsb2NhbEFjdG9yc3EAfgAMdmtLZ3QAAmVxc3EAfgAMCnARY3QAAiMjc3EAfgAMnMJGL3QACGZpbmFsaXplc3EAfgAM1SI1H3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AT3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQADF8wMS5Mb2NhbEFwcHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBnAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBPTAAJaW5oZXJpdGVkcQB+AE9MAAdwYXJlbnRzcQB+AE94cQB+AG5zcQB+AGcBdXEAfgBKAAAAAHBzcQB+AGcBdXEAfgBKAAAAAHBzcQB+AGcBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBtdAAIQm9vdGFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmF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
+external apis:
+0 items
+source infos:
+2 items
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalActor.scala -> 
+AAAAAAAAAAA=
+D:\w7\data\residencia\functional\akka\code\local_node\src\main\scala\_01\LocalApp.scala -> 
+AAAAAAAAAAA=
+compilations:
+7 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTnUAT2l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAT0Q6XHc3XGRhdGFccmVzaWRlbmNpYVxmdW5jdGlvbmFsXGFra2FcY29kZVxsb2NhbF9ub2RlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTnlJZoh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAT0Q6XHc3XGRhdGFccmVzaWRlbmNpYVxmdW5jdGlvbmFsXGFra2FcY29kZVxsb2NhbF9ub2RlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTn7jpm91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAT0Q6XHc3XGRhdGFccmVzaWRlbmNpYVxmdW5jdGlvbmFsXGFra2FcY29kZVxsb2NhbF9ub2RlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTn/kGzN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAT0Q6XHc3XGRhdGFccmVzaWRlbmNpYVxmdW5jdGlvbmFsXGFra2FcY29kZVxsb2NhbF9ub2RlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABToAvcTd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAT0Q6XHc3XGRhdGFccmVzaWRlbmNpYVxmdW5jdGlvbmFsXGFra2FcY29kZVxsb2NhbF9ub2RlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABToAzoDd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAT0Q6XHc3XGRhdGFccmVzaWRlbmNpYVxmdW5jdGlvbmFsXGFra2FcY29kZVxsb2NhbF9ub2RlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABToBFPq11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAT0Q6XHc3XGRhdGFccmVzaWRlbmNpYVxmdW5jdGlvbmFsXGFra2FcY29kZVxsb2NhbF9ub2RlXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv

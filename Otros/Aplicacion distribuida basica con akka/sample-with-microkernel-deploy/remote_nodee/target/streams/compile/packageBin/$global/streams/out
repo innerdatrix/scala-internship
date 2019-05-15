@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mPackaging D:\w7\data\residencia\functional\akka\code\remote_nodee\target\scala-2.11\remote_nodee_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  D:\w7\data\residencia\functional\akka\code\remote_nodee\target\scala-2.11\classes\application.conf[0m
+[0m[[0mdebug[0m] [0m	_01\RemoteActor.class[0m
+[0m[[0mdebug[0m] [0m	  D:\w7\data\residencia\functional\akka\code\remote_nodee\target\scala-2.11\classes\_01\RemoteActor.class[0m
+[0m[[0mdebug[0m] [0m	_01\RemoteApp$.class[0m
+[0m[[0mdebug[0m] [0m	  D:\w7\data\residencia\functional\akka\code\remote_nodee\target\scala-2.11\classes\_01\RemoteApp$.class[0m
+[0m[[0mdebug[0m] [0m	_01\RemoteApp.class[0m
+[0m[[0mdebug[0m] [0m	  D:\w7\data\residencia\functional\akka\code\remote_nodee\target\scala-2.11\classes\_01\RemoteApp.class[0m
+[0m[[0mdebug[0m] [0m	_01[0m
+[0m[[0mdebug[0m] [0m	  D:\w7\data\residencia\functional\akka\code\remote_nodee\target\scala-2.11\classes\_01[0m
+[0m[[0mdebug[0m] [0m	_01\RemoteActor$$anonfun$receive$1.class[0m
+[0m[[0mdebug[0m] [0m	  D:\w7\data\residencia\functional\akka\code\remote_nodee\target\scala-2.11\classes\_01\RemoteActor$$anonfun$receive$1.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

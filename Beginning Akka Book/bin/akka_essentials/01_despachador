@@ -1,0 +1,23 @@
+
+akka{
+	actor{
+		deployment{
+			/PingPong{
+				dispatcher = disptchr
+			}		
+		}
+		disptchr{
+		  type = Dispatcher
+		  executor = "fork-join-executor"
+		  thread-pool-executor {
+			parallelism-min = 2
+			parallelism-factor = 2.0
+			parallelism-max = 4
+		  }
+		  throughput = 1
+		  mailbox-capacity = 4
+		  mailbox-type =""
+		}
+	}
+}
+  

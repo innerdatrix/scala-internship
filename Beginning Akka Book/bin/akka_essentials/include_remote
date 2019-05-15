@@ -1,0 +1,117 @@
+
+akka {
+  loglevel = "INFO"
+   actor {
+     provider = "akka.remote.RemoteActorRefProvider"
+   }
+   remote{
+     enabled-transports = ["akka.remote.netty.tcp"]
+     netty.tcp {
+       hostname = "127.0.0.1"
+       port = 1111
+     }
+   }
+}
+
+default_thread_pool{
+  type = Dispatcher
+  executor = "thread-pool-executor"
+  thread-pool-executor {
+    core-pool-size-min = 4
+    core-pool-size-factor = 2.0
+    core-pool-size-max = 16
+  }
+  throughput = 1
+  mailbox-capacity = -1
+  mailbox-type =""
+}
+
+default_fork_join {
+    type = Dispatcher
+	executor = "fork-join-executor"
+	fork-join-executor {
+      parallelism-min = 4
+      parallelism-factor = 2.0
+	  parallelism-max = 16
+	}
+	throughput = 1
+    mailbox-capacity = -1
+    mailbox-type =""	  
+}
+
+akka.actor.deployment{
+  /master{
+    dispatcher = default_fork_join
+  }
+}
+
+DispatcherExamples{
+  default_fork_join {
+    type = Dispatcher
+	executor = "fork-join-executor"
+	fork-join-executor {
+      parallelism-min = 2
+      parallelism-factor = 2.0
+	  parallelism-max = 6
+	}
+	throughput = 1
+    mailbox-capacity = -1
+    mailbox-type =""	  
+  }
+  default_thread_pool{
+    type = Dispatcher
+    executor = "thread-pool-executor"
+    thread-pool-executor {
+      core-pool-size-min = 1
+	  core-pool-size-factor = 2.0
+      core-pool-size-max = 6
+    }
+    throughput = 100
+    mailbox-capacity = -1
+    mailbox-type =""
+  }
+    pinnedDispatcher {
+	  	 type = PinnedDispatcher
+	  	 executor = "thread-pool-executor"
+	  	 thread-pool-executor {
+	       		core-pool-size-min = 2
+	    	    core-pool-size-factor = 2.0
+			    core-pool-size-max = 10
+	  	  }
+	  	  throughput = 5
+  }
+   balancingDispatcher {
+	  	 type = BalancingDispatcher
+	  	 executor = "thread-pool-executor"
+	  	 thread-pool-executor {
+	       		core-pool-size-min = 1
+	    	    core-pool-size-factor = 2.0
+			    core-pool-size-max = 2
+	  	  }
+	  	  throughput = 5
+   }
+   balancingDispatcher1 {
+	  	 type = BalancingDispatcher
+	  	 executor = "fork-join-executor"
+	  	 fork-join-executor {
+       		parallelism-min = 2
+    	    parallelism-factor = 2.0
+		    parallelism-max = 6
+	  	  }
+	  	  throughput = 5
+   }
+   CallingThreadDispatcher {
+  	      type = akka.testkit.CallingThreadDispatcherConfigurator
+    }
+}
+    akka.actor.deployment {
+      /robinPool{
+        router = round-robin-pool
+        nr-of-instances = 5
+      }
+      /robinGroup{
+        router = round-robin-group
+        routees.paths = ["/user/echo01", "/user/echo02"]
+      }
+    }
+
