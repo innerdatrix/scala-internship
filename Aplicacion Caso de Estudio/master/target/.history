@@ -1,0 +1,14 @@
+eclipse
+exit
+compile
+compile -feature
+compile
+run -feature
+run C:\tor\tor.txt
+run C:\tor\kingjames.txt
+run C:\tor\quijote.txt
+run C:\tor\search\texts\romantic\pg47354.txt
+dist
+exit
+dist
+exit

@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0mMain Scala API documentation to D:\w7\data\residencia\functional\akka\code\mapred_remote\mapnode\target\scala-2.11\api...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.5[0m
+[0m[[0mdebug[0m] [0mCalling Scaladoc with arguments:[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	D:\w7\data\residencia\functional\akka\code\mapred_remote\mapnode\target\scala-2.11\api[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jdk1.7.0_75\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_75\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_75\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_75\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_75\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_75\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_75\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_75\jre\classes;C:\Users\username\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.5.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	D:\w7\data\residencia\functional\akka\code\mapred_remote\mapnode\lib\map-reduce-msgs_2.11-1.0.jar;C:\Users\username\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.9.jar;C:\Users\username\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar;C:\Users\username\.ivy2\cache\com.typesafe.akka\akka-remote_2.11\jars\akka-remote_2.11-2.3.9.jar;C:\Users\username\.ivy2\cache\io.netty\netty\bundles\netty-3.8.0.Final.jar;C:\Users\username\.ivy2\cache\com.google.protobuf\protobuf-java\bundles\protobuf-java-2.5.0.jar;C:\Users\username\.ivy2\cache\org.uncommons.maths\uncommons-maths\jars\uncommons-maths-1.2.2a.jar;C:\Users\username\.ivy2\cache\com.typesafe.akka\akka-kernel_2.11\jars\akka-kernel_2.11-2.3.9.jar[0m
+[0m[[0mdebug[0m] [0m	D:\w7\data\residencia\functional\akka\code\mapred_remote\mapnode\src\main\scala\MapActor.scala[0m
+[0m[[0minfo[0m] [0mMain Scala API documentation successful.[0m

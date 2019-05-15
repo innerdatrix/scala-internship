@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0mPackaging D:\w7\data\residencia\functional\akka\code\mapred_remote\reducenode\target\scala-2.11\reduce-node_2.11-1.0-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  D:\w7\data\residencia\functional\akka\code\mapred_remote\reducenode\src\main\resources\application.conf[0m
+[0m[[0mdebug[0m] [0m	ReduceActor.scala[0m
+[0m[[0mdebug[0m] [0m	  D:\w7\data\residencia\functional\akka\code\mapred_remote\reducenode\src\main\scala\ReduceActor.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

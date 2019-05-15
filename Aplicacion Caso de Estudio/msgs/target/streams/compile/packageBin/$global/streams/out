@@ -1,0 +1,23 @@
+[0m[[0minfo[0m] [0mPackaging D:\w7\data\residencia\functional\akka\code\mapred_remote\msgs\target\scala-2.11\map-reduce-msgs_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	msgs\ReduceData.class[0m
+[0m[[0mdebug[0m] [0m	  D:\w7\data\residencia\functional\akka\code\mapred_remote\msgs\target\scala-2.11\classes\msgs\ReduceData.class[0m
+[0m[[0mdebug[0m] [0m	msgs[0m
+[0m[[0mdebug[0m] [0m	  D:\w7\data\residencia\functional\akka\code\mapred_remote\msgs\target\scala-2.11\classes\msgs[0m
+[0m[[0mdebug[0m] [0m	msgs\MapData.class[0m
+[0m[[0mdebug[0m] [0m	  D:\w7\data\residencia\functional\akka\code\mapred_remote\msgs\target\scala-2.11\classes\msgs\MapData.class[0m
+[0m[[0mdebug[0m] [0m	msgs\ReduceData$.class[0m
+[0m[[0mdebug[0m] [0m	  D:\w7\data\residencia\functional\akka\code\mapred_remote\msgs\target\scala-2.11\classes\msgs\ReduceData$.class[0m
+[0m[[0mdebug[0m] [0m	msgs\Result.class[0m
+[0m[[0mdebug[0m] [0m	  D:\w7\data\residencia\functional\akka\code\mapred_remote\msgs\target\scala-2.11\classes\msgs\Result.class[0m
+[0m[[0mdebug[0m] [0m	msgs\MapReduceMessage.class[0m
+[0m[[0mdebug[0m] [0m	  D:\w7\data\residencia\functional\akka\code\mapred_remote\msgs\target\scala-2.11\classes\msgs\MapReduceMessage.class[0m
+[0m[[0mdebug[0m] [0m	msgs\MapData$.class[0m
+[0m[[0mdebug[0m] [0m	  D:\w7\data\residencia\functional\akka\code\mapred_remote\msgs\target\scala-2.11\classes\msgs\MapData$.class[0m
+[0m[[0mdebug[0m] [0m	msgs\WordCount$.class[0m
+[0m[[0mdebug[0m] [0m	  D:\w7\data\residencia\functional\akka\code\mapred_remote\msgs\target\scala-2.11\classes\msgs\WordCount$.class[0m
+[0m[[0mdebug[0m] [0m	msgs\Result$.class[0m
+[0m[[0mdebug[0m] [0m	  D:\w7\data\residencia\functional\akka\code\mapred_remote\msgs\target\scala-2.11\classes\msgs\Result$.class[0m
+[0m[[0mdebug[0m] [0m	msgs\WordCount.class[0m
+[0m[[0mdebug[0m] [0m	  D:\w7\data\residencia\functional\akka\code\mapred_remote\msgs\target\scala-2.11\classes\msgs\WordCount.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

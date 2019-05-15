@@ -1,0 +1,346 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+12 items
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes\AggregateActor$$anonfun$aggregateInMemoryReduce$1.class
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes\AggregateActor$$anonfun$aggregateInMemoryReduce$2.class
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes\AggregateActor$$anonfun$receive$1.class
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes\AggregateActor.class
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes\MasterActor$$anonfun$receive$1.class
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes\MasterActor.class
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes\Starter$$anonfun$1.class
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes\Starter$$anonfun$Starter$$cleanLine$1$1.class
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes\Starter$$anonfun$loadFile$1$1.class
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes\Starter$$anonfun$main$1.class
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes\Starter$.class
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes\Starter.class
+binary dependencies:
+13 items
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> C:\Program Files\Java\jdk1.7.0_75\jre\lib\rt.jar
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> C:\Users\username\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.9.jar
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> C:\Users\username\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.5.jar
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> D:\w7\data\residencia\functional\akka\code\mapred_remote\master\lib\map-reduce-msgs_2.11-1.0.jar
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> C:\Program Files\Java\jdk1.7.0_75\jre\lib\rt.jar
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> C:\Users\username\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.9.jar
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> C:\Users\username\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.5.jar
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> D:\w7\data\residencia\functional\akka\code\mapred_remote\master\lib\map-reduce-msgs_2.11-1.0.jar
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> C:\Program Files\Java\jdk1.7.0_75\jre\lib\rt.jar
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> C:\Users\username\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.9.jar
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> C:\Users\username\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> C:\Users\username\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.5.jar
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> D:\w7\data\residencia\functional\akka\code\mapred_remote\master\lib\map-reduce-msgs_2.11-1.0.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+2 items
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+12 items
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> AggregateActor
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> AggregateActor$$anonfun$aggregateInMemoryReduce$1
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> AggregateActor$$anonfun$aggregateInMemoryReduce$2
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> AggregateActor$$anonfun$receive$1
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> MasterActor
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> MasterActor$$anonfun$receive$1
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> Starter
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> Starter$
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> Starter$$anonfun$1
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> Starter$$anonfun$Starter$$cleanLine$1$1
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> Starter$$anonfun$loadFile$1$1
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> Starter$$anonfun$main$1
+used names:
+202 items
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> !
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> +
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> +=
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> ->
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> <init>
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> ==
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> A1
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> Actor
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> ActorLogging
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> AggregateActor
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> B1
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> Function1
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> HashMap
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> Int
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> Map
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> Predef
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> Receive
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> ReduceData
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> Result
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> String
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> Unit
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> _1
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> _2
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> actor
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> actorRef2Scala
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> aggregateInMemoryReduce
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> akka
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> apply
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> asInstanceOf
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> collection
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> contains
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> finalReducedMap
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> foreach
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> get
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> immutable
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> info
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> isInstanceOf
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> key
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> log
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> msgs
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> mutable
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> ne
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> package
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> path
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> reduceDataMap
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> reducedList
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> scala
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> self
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> sender
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> unchecked
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> update
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> value
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> withFilter
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> !
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> +
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> <init>
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> ==
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> A1
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> Actor
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> ActorLogging
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> ActorRef
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> ActorSelection
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> AggregateActor
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> B1
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> ClassTag
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> Function1
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> MasterActor
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> Props
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> Receive
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> RoundRobinPool
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> Unit
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> actor
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> actorOf
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> actorRef2Scala
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> actorSelection
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> aggregateActor
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> akka
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> apply
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> asInstanceOf
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> context
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> forward
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> info
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> isInstanceOf
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> log
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> materializeClassTag
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> msgs
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> package
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> path
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> remoteMap
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> remoteReduce
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> routing
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> scala
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> self
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> toScala
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> unchecked
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> !
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> *
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> +
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> -
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> /
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> <init>
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> >
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> ?
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> ActorSystem
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> AnyRef
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> Array
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> ArrayBuffer
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> Await
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> Char
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> ClassTag
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> ConfigFactory
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> Console
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> Double
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> DurationInt
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> HashMap
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> Int
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> List
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> Map
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> MasterActor
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> Ordering
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> Predef
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> Props
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> Result
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> Source
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> Starter
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> String
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> System
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> Thread
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> Timeout
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> Unit
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> _2
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> _system
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> actor
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> actorOf
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> actorRef2Scala
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> akka
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> apply
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> args
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> ask
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> augmentString
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> clean
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> cleanLine
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> collection
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> com
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> concurrent
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> config
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> contains
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> count
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> duration
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> err
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> f
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> filesize
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> finalTime
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> finalt
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> foreach
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> fromFile
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> future
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> getLines
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> immutable
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> io
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> java
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> lang
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> length
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> line
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> linelist
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> linespro
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> load
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> loadFile
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> mapTo
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> master
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> materializeClassTag
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> math
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> msgs
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> mutable
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> nanoTime
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> ordenar_resultados
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> package
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> pattern
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> println
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> qual$1
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> result
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> scala
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> seconds
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> setChar
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> shutdown
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> size
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> sleep
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> sortBy
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> start
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> startTime
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> timeout
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> toList
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> toLong
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> toLowerCase
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> toSeq
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> typesafe
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> util
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> validChars
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> wait
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> x
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> x$2
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> x$3
+product stamps:
+12 items
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes\AggregateActor$$anonfun$aggregateInMemoryReduce$1.class -> lastModified(1443022122833)
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes\AggregateActor$$anonfun$aggregateInMemoryReduce$2.class -> lastModified(1443022122869)
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes\AggregateActor$$anonfun$receive$1.class -> lastModified(1443022122895)
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes\AggregateActor.class -> lastModified(1443022122779)
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes\MasterActor$$anonfun$receive$1.class -> lastModified(1443022122978)
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes\MasterActor.class -> lastModified(1443022122954)
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes\Starter$$anonfun$1.class -> lastModified(1443022730924)
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes\Starter$$anonfun$loadFile$1$1.class -> lastModified(1443022730992)
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes\Starter$$anonfun$main$1.class -> lastModified(1443022731004)
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes\Starter$$anonfun$Starter$$cleanLine$1$1.class -> lastModified(1443022730970)
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes\Starter$.class -> lastModified(1443022730879)
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\target\scala-2.11\classes\Starter.class -> lastModified(1443022730522)
+source stamps:
+3 items
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> hash(68269e738b3191d2a8b9bbf3b24cc3bbdcae59a0)
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> hash(c744c4ffa2b5b07c777ecdfbec75189b832eab21)
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> hash(c7258781748a581416077c65645aff7fcf26cb73)
+binary stamps:
+5 items
+C:\Program Files\Java\jdk1.7.0_75\jre\lib\rt.jar -> lastModified(1422589163081)
+C:\Users\username\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.9.jar -> lastModified(1421734693000)
+C:\Users\username\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar -> lastModified(1417709734000)
+C:\Users\username\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.5.jar -> lastModified(1420590731000)
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\lib\map-reduce-msgs_2.11-1.0.jar -> lastModified(1439875233229)
+class names:
+5 items
+C:\Program Files\Java\jdk1.7.0_75\jre\lib\rt.jar -> java.lang.Object
+C:\Users\username\.ivy2\cache\com.typesafe.akka\akka-actor_2.11\jars\akka-actor_2.11-2.3.9.jar -> akka.pattern.AskSupport
+C:\Users\username\.ivy2\cache\com.typesafe\config\bundles\config-1.2.1.jar -> com.typesafe.config.ConfigFactory
+C:\Users\username\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.5.jar -> scala.Tuple2
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\lib\map-reduce-msgs_2.11-1.0.jar -> msgs.Result$
+internal apis:
+3 items
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBpQn+IAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw9fCvGXQABHNlbGZzcQB+AAvgIvSydAAHY29udGV4dHVxAH4ACQAAACZzcQB+AAvDkloVdAAGbm90aWZ5c3EAfgAL4ZLSIXQAB1JlY2VpdmVzcQB+AAsxX3xldAAEd2FpdHNxAH4ACzEi3n90AA0kYXNJbnN0YW5jZU9mc3EAfgAL+0SjsHQABmVxdWFsc3NxAH4ACzcuU810AAxhc0luc3RhbmNlT2ZzcQB+AAvpr+JWdAAMc3luY2hyb25pemVkc3EAfgAL/JjP7XQADSRpc0luc3RhbmNlT2ZzcQB+AAtCtLj5dAAHcmVjZWl2ZXNxAH4ACw4Hkx10AApwcmVSZXN0YXJ0c3EAfgALZMfnAHQADWFyb3VuZFJlY2VpdmVzcQB+AAsaJBctdAALcG9zdFJlc3RhcnRzcQB+AAtCQD8RdAAIcG9zdFN0b3BzcQB+AAuvwL46dAAJbm90aWZ5QWxsc3EAfgAL8b/hHXQAF2FnZ3JlZ2F0ZUluTWVtb3J5UmVkdWNlc3EAfgAL7qVjwnQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALDfWD/XQADGlzSW5zdGFuY2VPZnNxAH4AC2BsN+10ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALjtW6QnQADmFyb3VuZFBvc3RTdG9wc3EAfgALkSxn/HQABjxpbml0PnNxAH4AC3uAaRl0AAhwcmVTdGFydHNxAH4AC3IYYp90AAl1bmhhbmRsZWRzcQB+AAs3QngJdAACPT1zcQB+AAtcPM4ddAAFY2xvbmVzcQB+AAtoQ6bAdAAPZmluYWxSZWR1Y2VkTWFwc3EAfgALopu7pXQABnNlbmRlcnNxAH4AC8WFtXZ0AAh0b1N0cmluZ3NxAH4AC1MhXKZ0AAIhPXNxAH4AC5yT0o50AAhnZXRDbGFzc3NxAH4AC9jbrNt0AAJuZXNxAH4AC6dnSBp0AA5BZ2dyZWdhdGVBY3RvcnNxAH4ACxHrWdR0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAu442WJdAACZXFzcQB+AAsq1dzHdAADbG9nc3EAfgALja+z53QAAiMjc3EAfgALVP8j33QACGZpbmFsaXplc3EAfgALpNSk8XQACGhhc2hDb2Rlc3EAfgAL3qLqInQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AZ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgBPdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AH4Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGdMAAlpbmhlcml0ZWRxAH4AZ0wAB3BhcmVudHNxAH4AZ3hxAH4AhXNxAH4AfgF1cQB+AGIAAAAAcHNxAH4AfgF1cQB+AGIAAAAAcHNxAH4AfgF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIR0AAxBY3RvckxvZ2dpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AJ10AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCec3EAfgCRdAAFQWN0b3JxAH4Al3NxAH4AkXQABk9iamVjdHNxAH4AlXNxAH4AmHVxAH4AmwAAAANzcQB+AJ10AARqYXZhc3EAfgCddAAEbGFuZ3EAfgCkc3EAfgCRdAADQW55c3EAfgCVc3EAfgCYdXEAfgCbAAAAAnNxAH4AnXQABXNjYWxhcQB+AKRwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFP+tHICHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AFlEOlx3N1xkYXRhXHJlc2lkZW5jaWFcZnVuY3Rpb25hbFxha2thXGNvZGVcbWFwcmVkX3JlbW90ZVxtYXN0ZXJcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGgmnnOLMZHSqLm787JMw7vcrlmg
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBFByEdAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwljm1K3QABHNlbGZzcQB+AAsJyzpcdAAHY29udGV4dHVxAH4ACQAAACdzcQB+AAvrH0wBdAAGbm90aWZ5c3EAfgALtpk1q3QAB1JlY2VpdmVzcQB+AAsdQG6ldAAEd2FpdHNxAH4AC9kw7El0AA0kYXNJbnN0YW5jZU9mc3EAfgALYCH3bHQABmVxdWFsc3NxAH4ACyWWGwR0AAxhc0luc3RhbmNlT2ZzcQB+AAvNqdU8dAAMc3luY2hyb25pemVkc3EAfgALJlfGj3QADSRpc0luc3RhbmNlT2ZzcQB+AAuOB9IedAAHcmVjZWl2ZXNxAH4AC8Nb8dN0AApwcmVSZXN0YXJ0c3EAfgALp1zDZXQADWFyb3VuZFJlY2VpdmVzcQB+AAvtXibcdAALcG9zdFJlc3RhcnRzcQB+AAtYGX1ydAAIcG9zdFN0b3BzcQB+AAs0d3YxdAALTWFzdGVyQWN0b3JzcQB+AAsYldXQdAAJbm90aWZ5QWxsc3EAfgALbUrKXnQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALsWPXTnQADGlzSW5zdGFuY2VPZnNxAH4ACyb1DhJ0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALDEYWQ3QADmFyb3VuZFBvc3RTdG9wc3EAfgALfpU6dnQADmFnZ3JlZ2F0ZUFjdG9yc3EAfgALiQ89y3QABjxpbml0PnNxAH4AC+Ia3Dx0AAhwcmVTdGFydHNxAH4ACxZnjsd0AAl1bmhhbmRsZWRzcQB+AAsMJPZedAACPT1zcQB+AAukbECWdAAFY2xvbmVzcQB+AAuvUUn8dAAMcmVtb3RlUmVkdWNlc3EAfgALTrWJjnQABnNlbmRlcnNxAH4AC8+L2nF0AAh0b1N0cmluZ3NxAH4ACz0Q5j90AAIhPXNxAH4ACz6yTA50AAhnZXRDbGFzc3NxAH4AC9uZUr50AAJuZXNxAH4AC6J/VkR0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAsYmL1KdAACZXFzcQB+AAvdZPYFdAAJcmVtb3RlTWFwc3EAfgALJ7iR+HQAA2xvZ3NxAH4AC7KSah90AAIjI3NxAH4AC0EcnCR0AAhmaW5hbGl6ZXNxAH4AC8rv9ZR0AAhoYXNoQ29kZXNxAH4AC5+b6mB0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4ALXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCAAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBpTAAJaW5oZXJpdGVkcQB+AGlMAAdwYXJlbnRzcQB+AGl4cQB+AIdzcQB+AIABdXEAfgBkAAAAAHBzcQB+AIABdXEAfgBkAAAAAHBzcQB+AIABdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAARzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCGdAAMQWN0b3JMb2dnaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCGc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgCfdAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AoHNxAH4Ak3QABUFjdG9ycQB+AJlzcQB+AJN0AAZPYmplY3RzcQB+AJdzcQB+AJp1cQB+AJ0AAAADc3EAfgCfdAAEamF2YXNxAH4An3QABGxhbmdxAH4ApnNxAH4Ak3QAA0FueXNxAH4Al3NxAH4AmnVxAH4AnQAAAAJzcQB+AJ90AAVzY2FsYXEAfgCmcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT/rRyAh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABZRDpcdzdcZGF0YVxyZXNpZGVuY2lhXGZ1bmN0aW9uYWxcYWtrYVxjb2RlXG1hcHJlZF9yZW1vdGVcbWFzdGVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTHRMT/orWwfHd+zfvsdRibgy6rIQ==
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAwnfYKAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDRKzSF0AAZub3RpZnlzcQB+AAxWRhmwdAAEd2FpdHNxAH4ADOk90vV0AA0kYXNJbnN0YW5jZU9mc3EAfgAMVpE/cnQABmVxdWFsc3NxAH4ADDQ76qF0AAxhc0luc3RhbmNlT2ZzcQB+AAy2emSCdAAMc3luY2hyb25pemVkc3EAfgAMfkTLmHQADSRpc0luc3RhbmNlT2ZzcQB+AAy/qgc+dAAEbWFpbnNxAH4ADMbW7Ld0AAlub3RpZnlBbGxzcQB+AAxsyAAxdAAMaXNJbnN0YW5jZU9mc3EAfgAM+k9tRXQAAj09c3EAfgAMrwYWcXQABWNsb25lc3EAfgAMWD9bgHQAB1N0YXJ0ZXJzcQB+AAwrX4qYdAAIdG9TdHJpbmdzcQB+AAyO9Pf2dAACIT1zcQB+AAxnl4oAdAAIZ2V0Q2xhc3NzcQB+AAyD2o9ydAACbmVzcQB+AAzuZT7EdAACZXFzcQB+AAzEYldsdAACIyNzcQB+AAxsSXiZdAAIZmluYWxpemVzcQB+AAyDskV6dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AFgBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AX3NxAH4AWAF1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFAAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXnQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF5zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHp1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBneHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBTdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBuWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBec3EAfgBtdAAFQXJyYXlxAH4Ac3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBtdAAGU3RyaW5nc3EAfgBxc3EAfgB0dXEAfgB3AAAAA3NxAH4AeXQABGphdmFzcQB+AHl0AARsYW5ncQB+AH5wc3EAfgBYAXVxAH4APAAAAABwc3EAfgBYAXVxAH4AkgAAAAJzcQB+AG10AAZPYmplY3RxAH4AlnNxAH4AbXQAA0FueXEAfgBzcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT/rbETd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABZRDpcdzdcZGF0YVxyZXNpZGVuY2lhXGZ1bmN0aW9uYWxcYWtrYVxjb2RlXG1hcHJlZF9yZW1vdGVcbWFzdGVyXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTHJYeBdIpYFBYHfGVkWv9/zybLcw==
+external apis:
+0 items
+source infos:
+3 items
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\AgregateActor.scala -> 
+AAAAAAAAAAA=
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\MasterActor.scala -> 
+AAAAAAAAAAA=
+D:\w7\data\residencia\functional\akka\code\mapred_remote\master\src\main\scala\Starter.scala -> 
+AAAAAAAAAAA=
+compilations:
+8 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT15M6+Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUQ6XHc3XGRhdGFccmVzaWRlbmNpYVxmdW5jdGlvbmFsXGFra2FcY29kZVxtYXByZWRfcmVtb3RlXG1hc3Rlclx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT15QKVd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUQ6XHc3XGRhdGFccmVzaWRlbmNpYVxmdW5jdGlvbmFsXGFra2FcY29kZVxtYXByZWRfcmVtb3RlXG1hc3Rlclx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT15d1ax1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUQ6XHc3XGRhdGFccmVzaWRlbmNpYVxmdW5jdGlvbmFsXGFra2FcY29kZVxtYXByZWRfcmVtb3RlXG1hc3Rlclx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT16kH6N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUQ6XHc3XGRhdGFccmVzaWRlbmNpYVxmdW5jdGlvbmFsXGFra2FcY29kZVxtYXByZWRfcmVtb3RlXG1hc3Rlclx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT16oKAR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUQ6XHc3XGRhdGFccmVzaWRlbmNpYVxmdW5jdGlvbmFsXGFra2FcY29kZVxtYXByZWRfcmVtb3RlXG1hc3Rlclx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT+tdH6t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUQ6XHc3XGRhdGFccmVzaWRlbmNpYVxmdW5jdGlvbmFsXGFra2FcY29kZVxtYXByZWRfcmVtb3RlXG1hc3Rlclx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT/rRyAh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUQ6XHc3XGRhdGFccmVzaWRlbmNpYVxmdW5jdGlvbmFsXGFra2FcY29kZVxtYXByZWRfcmVtb3RlXG1hc3Rlclx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABT/rbETd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWUQ6XHc3XGRhdGFccmVzaWRlbmNpYVxmdW5jdGlvbmFsXGFra2FcY29kZVxtYXByZWRfcmVtb3RlXG1hc3Rlclx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==

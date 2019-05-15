@@ -1,0 +1,9 @@
+[INFO] [09/23/2015 10:50:45.845] [main] [Remoting] Starting remoting
+[INFO] [09/23/2015 10:50:46.855] [main] [Remoting] Remoting started; listening on addresses :[akka.tcp://RemoteMapNode@127.0.0.1:2222]
+[INFO] [09/23/2015 10:50:46.862] [main] [Remoting] Remoting now listens on addresses: [akka.tcp://RemoteMapNode@127.0.0.1:2222]
+[INFO] [09/23/2015 10:50:46.941] [RemoteMapNode-akka.actor.default-dispatcher-4] [akka.tcp://RemoteMapNode@127.0.0.1:2222/user/mapPool/$a] [Starting Remote MapNode...] > akka://RemoteMapNode/user/mapPool/$a
+[INFO] [09/23/2015 10:50:46.942] [RemoteMapNode-akka.actor.default-dispatcher-5] [akka.tcp://RemoteMapNode@127.0.0.1:2222/user/mapPool/$b] [Starting Remote MapNode...] > akka://RemoteMapNode/user/mapPool/$b
+[INFO] [09/23/2015 10:50:46.942] [RemoteMapNode-akka.actor.default-dispatcher-15] [akka.tcp://RemoteMapNode@127.0.0.1:2222/user/mapPool/$d] [Starting Remote MapNode...] > akka://RemoteMapNode/user/mapPool/$d
+[INFO] [09/23/2015 10:50:46.944] [RemoteMapNode-akka.actor.default-dispatcher-5] [akka.tcp://RemoteMapNode@127.0.0.1:2222/user/mapPool/$e] [Starting Remote MapNode...] > akka://RemoteMapNode/user/mapPool/$e
+[INFO] [09/23/2015 10:50:46.944] [RemoteMapNode-akka.actor.default-dispatcher-3] [akka.tcp://RemoteMapNode@127.0.0.1:2222/user/mapPool/$c] [Starting Remote MapNode...] > akka://RemoteMapNode/user/mapPool/$c
+Terminate batch job (Y/N)? 

@@ -1,0 +1,9 @@
+[INFO] [09/23/2015 10:55:47.049] [main] [Remoting] Starting remoting
+[INFO] [09/23/2015 10:55:48.079] [main] [Remoting] Remoting started; listening on addresses :[akka.tcp://RemoteReduceNode@127.0.0.1:3333]
+[INFO] [09/23/2015 10:55:48.086] [main] [Remoting] Remoting now listens on addresses: [akka.tcp://RemoteReduceNode@127.0.0.1:3333]
+[INFO] [09/23/2015 10:55:48.163] [RemoteReduceNode-akka.actor.default-dispatcher-3] [akka.tcp://RemoteReduceNode@127.0.0.1:3333/user/reducePool/$a] [Starting Remote ReduceNode...] > akka://RemoteReduceNode/user/reducePool/$a
+[INFO] [09/23/2015 10:55:48.163] [RemoteReduceNode-akka.actor.default-dispatcher-2] [akka.tcp://RemoteReduceNode@127.0.0.1:3333/user/reducePool/$b] [Starting Remote ReduceNode...] > akka://RemoteReduceNode/user/reducePool/$b
+[INFO] [09/23/2015 10:55:48.164] [RemoteReduceNode-akka.actor.default-dispatcher-2] [akka.tcp://RemoteReduceNode@127.0.0.1:3333/user/reducePool/$c] [Starting Remote ReduceNode...] > akka://RemoteReduceNode/user/reducePool/$c
+[INFO] [09/23/2015 10:55:48.164] [RemoteReduceNode-akka.actor.default-dispatcher-2] [akka.tcp://RemoteReduceNode@127.0.0.1:3333/user/reducePool/$d] [Starting Remote ReduceNode...] > akka://RemoteReduceNode/user/reducePool/$d
+[INFO] [09/23/2015 10:55:48.166] [RemoteReduceNode-akka.actor.default-dispatcher-16] [akka.tcp://RemoteReduceNode@127.0.0.1:3333/user/reducePool/$e] [Starting Remote ReduceNode...] > akka://RemoteReduceNode/user/reducePool/$e
+Terminate batch job (Y/N)? 

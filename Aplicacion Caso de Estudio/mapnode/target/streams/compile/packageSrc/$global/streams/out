@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0mPackaging D:\w7\data\residencia\functional\akka\code\mapred_remote\mapnode\target\scala-2.11\map-node_2.11-1.0-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  D:\w7\data\residencia\functional\akka\code\mapred_remote\mapnode\src\main\resources\application.conf[0m
+[0m[[0mdebug[0m] [0m	MapActor.scala[0m
+[0m[[0mdebug[0m] [0m	  D:\w7\data\residencia\functional\akka\code\mapred_remote\mapnode\src\main\scala\MapActor.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
